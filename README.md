@@ -1,0 +1,1 @@
+# Tarea7-Regresi-n-Parametrica
